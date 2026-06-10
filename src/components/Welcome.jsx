@@ -1,4 +1,3 @@
-import React from "react";
 import gsap from "gsap";
 import { useRef } from "react";
 import { useGSAP } from "@gsap/react";
